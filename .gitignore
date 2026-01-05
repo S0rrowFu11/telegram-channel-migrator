@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Telethon sessions
+*.session
+*.session-journal
+
+# Generated data
+channels.json
